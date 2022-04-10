@@ -7,7 +7,7 @@ Human Occupancy Detection & Activity Recognition
 ###
 The goal is to build a Neural Network model that detects human occupancy inside households based on Watt usage (electricity consumption) and other features derived from it.
 #
-**Description**
+**Assignment Description**
 ###
 Detecting when a household is occupied and which energy-related actions its resident are performing is fundamental to providing recommendations on reduction of energy consumption. Some activities may have inflexible schedules, such as cooking, unlike other activities, such as laundering, which may have schedules that are more flexible.
 ###
