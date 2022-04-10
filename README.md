@@ -5,6 +5,7 @@ Human Occupancy Detection & Activity Recognition
 #
 **Summary**
 ###
+A research paper.
 The goal is to build a Neural Network model that detects human occupancy inside households based on Watt usage (electricity consumption) and other features derived from it.
 #
 **Assignment Description**
